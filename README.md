@@ -10,6 +10,7 @@
 - Edit This Cookie [https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - Foxy Proxy Standard [https://chrome.google.com/webstore/detail/foxy-proxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp](https://chrome.google.com/webstore/detail/foxy-proxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp)
 - hosts文件管理工具 [https://chrome.google.com/webstore/detail/hosts-manager/kpfmckjjpabojdhlncnccfhkfhbmnjfi](https://chrome.google.com/webstore/detail/hosts-manager/kpfmckjjpabojdhlncnccfhkfhbmnjfi)
+
 ## 辅助工具 ##
 - FastStone Screen Capture [http://www.faststone.org/](http://www.faststone.org/) 最喜欢它的屏幕尺子和取色器，由于某些原因打不开，可以到其他地方下载：[http://www.onlinedown.net/soft/44264.htm](http://www.onlinedown.net/soft/44264.htm)
 - Fiddler [http://fiddler2.com/](http://fiddler2.com/)
