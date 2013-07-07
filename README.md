@@ -36,7 +36,7 @@
 ## 版本控制 ##
 ### 客户端 ###
 - Subversion [http://subversion.apache.org/packages.html](http://subversion.apache.org/packages.html)
-- Git [http://git-scm.com/](http://git-scm.com/) [需翻墙]
+- Git [http://git-scm.com/](http://git-scm.com/) 【需翻墙】
 - Mercurial [http://mercurial.selenic.com/](http://mercurial.selenic.com/)
 
 ### 在线服务 ###
