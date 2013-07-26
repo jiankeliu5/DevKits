@@ -14,8 +14,8 @@
 - [CSS Usage](https://addons.mozilla.org/zh-CN/firefox/addon/css-usage/)
 
 ## 辅助工具 ##
-- [FastStone Screen Capture](http://www.faststone.org/) 最喜欢它的屏幕尺子和取色器，由于某些原因打不开，可以到其他地方下载：[http://www.onlinedown.net/soft/44264.htm](http://www.onlinedown.net/soft/44264.htm)
-- [Fiddler](http://fiddler2.com/) 一个很棒的http(s)协议请求调试工具
+- [FastStone Screen Capture](http://www.faststone.org/) 
+- [Fiddler](http://fiddler2.com/)
 - [Node.js](http://nodejs.org/download/)
 - [XAMPP](http://www.apachefriends.org/zh_cn/xampp.html)
 - [MarkdownPad](http://markdownpad.com/)
